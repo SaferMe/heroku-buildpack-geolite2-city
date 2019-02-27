@@ -1,4 +1,4 @@
-# MaxMind Build Pack (GeoLite2-City ONLY)
+# GeoLite2-City Build Pack
 Ensure your application has the latest copy of **GeoLite2-City** from MaxMind.com data when deploying. Ideally, you should have a way to restart your application to make sure this build back happens often enough (if you deploy daily/weekly, you have nothing to worry about).
 
 ## How it Works
